@@ -1,0 +1,4 @@
+com\example\greeting\controller\GreetingWithParams.class
+com\example\greeting\controller\GreetingText.class
+com\example\greeting\objectmodel\GreetingApplicationModelObject.class
+com\example\greeting\Greeting.class
